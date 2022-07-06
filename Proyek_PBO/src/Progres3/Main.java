@@ -1,4 +1,4 @@
-package Progres2;
+package Progres3;
 import java.util.Scanner;
 
 public class Main {
