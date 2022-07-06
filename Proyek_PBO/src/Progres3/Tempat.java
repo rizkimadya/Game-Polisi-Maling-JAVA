@@ -1,4 +1,4 @@
-package Progres2;
+package Progres3;
 
 public class Tempat {
     private int levelSekarang = 1;
